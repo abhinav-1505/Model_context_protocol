@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "LinkedIn": {
+      "url": "https://mcp.pipedream.net/132f66fc-508b-4212-af60-295d2d2bb2b9/linkedin"
+    },
+    "Gmail": {
+      "url": "https://mcp.pipedream.net/132f66fc-508b-4212-af60-295d2d2bb2b9/gmail"
+    },
+    "Indian Railway": {
+      "url": "https://railway-mcp.amithv.xyz/mcp"
+    },
+    "ElevenLabs": {
+      "command": "C:\\Users\\23071\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+      "args": [
+        "C:\\Users\\23071\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\elevenlabs_mcp\\server.py"
+      ],
+      "env": {
+        "ELEVENLABS_API_KEY": "sk_07670bdfe473470037fa027843672955d3d0f4500810866e"
+      }
+    },
+    "Webflow": {
+      "url": "https://mcp.pipedream.net/132f66fc-508b-4212-af60-295d2d2bb2b9/webflow"
+    },
+    "GitHub": {
+      "url": "https://mcp.pipedream.net/132f66fc-508b-4212-af60-295d2d2bb2b9/github"
+    }
+  }
+}
